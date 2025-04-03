@@ -1,38 +1,25 @@
-# Day-9-Portfolio-Website-Interactive
+#  My Portfolio website
+Ghulam Rasool | Web Developer & Software Engineer
+About Me
+I am a Web Developer and Software Engineer with over 5 years of experience in designing and developing dynamic, responsive, and user-friendly websites. My expertise includes HTML, CSS, JavaScript, WordPress, and PHP, along with UI/UX design and graphic design.
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
+What I Do
+Web Development: Building high-performance and fully responsive websites
 
-Live Demo - https://quantumcoding123.github.io/Day-9-Portfolio-Website-Interactive/
+UI/UX Design: Creating engaging and user-friendly interfaces
 
-# Join Us
+Software Engineering: Developing efficient and scalable software solutions
 
-GitHub-https://github.com/QuantumCoding123
+Graphic Design: Designing branding materials, logos, and digital assets
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Workshops & Training: Teaching digital skills and web technologies
 
-Instagram - https://www.instagram.com/quantumcoding123
+Experience & Leadership
+Co-Founder – Educate Sindh (Empowering youth with digital skills and education)
 
-Telegram - https://t.me/QuantumCoding123
+Workshop Coordinator & Event Planner – Youth Ambassador Programme
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+Bachelor’s in Computer Science – Sindh Madressatul Islam University
 
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
-
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
-
-# Output - 1
-
-![Screenshot (42)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/6f6ea44f-db64-440f-86f3-bb6b8b7246bf)
-
-
-# Output - 2
-
-![Screenshot (40)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/4a0e0e3a-c938-42a6-8efb-4dc944b36338)
-
-
-# Output - 3
-
-![Screenshot (41)](https://github.com/QuantumCoding123/Day-9-Portfolio-Website-Interactive/assets/166281221/574552ff-24ad-475a-b526-30dcc97e83c8)
-
-
-
+Let's Work Together
+I am open to collaborations, freelance projects, and professional opportunities. Feel free to connect and discuss how we can create something great together.
